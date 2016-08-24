@@ -1,7 +1,18 @@
 # species
 visualize numbers of species 
 
-import tree
+add library of species <autocomplete -+>
+
+import trees
+import fungi
+import fishing-stats
+import animal-stats
+import microbial-stats
+import insect-stats
+import bee-stats
+import all-other-species-stats
+
+table extinction 
 
 genus: species: name
 
